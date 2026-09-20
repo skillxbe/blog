@@ -1,0 +1,18 @@
+baseURL = 'https://skillx.be/'
+locale = 'en-us'
+title = 'skillx.be'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = 'auto' # auto, light, or dark
+  showReadingTime = true
+  showShareButtons = false
+  showPostNavLinks = true
+
+[params.homeInfoParams]
+  Title = "Welcome to skillx.be"
+  Content = "Notes on software development, systems, and engineering."
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/skillxbe"
